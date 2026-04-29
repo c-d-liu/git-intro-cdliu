@@ -11,7 +11,7 @@ My goal of the course:
 1. learn **everything** about github
 2. being able to work with *other people*'s repository
 3. optimize my workflow
-
+4. be happy
 Last change: 10:10 AM 29.04.2026
 
 To be or not to be
