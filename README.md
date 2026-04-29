@@ -12,3 +12,4 @@ My goal of the course:
 2. being able to work with *other people*'s repository
 3. optimize my workflow
 
+Last change: 29.04.2026
