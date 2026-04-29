@@ -13,3 +13,5 @@ My goal of the course:
 3. optimize my workflow
 
 Last change: 10:10 AM 29.04.2026
+
+lalala
