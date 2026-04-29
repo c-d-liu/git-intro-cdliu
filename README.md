@@ -17,4 +17,4 @@ Last change: 10:10 AM 29.04.2026
 
 Quote:
 
-To be or not to be
+To be or not to be, its a question
