@@ -1,3 +1,6 @@
+# My Project Page
+Introduction to git and GitHub using GitHub Desktop (SoSe 2026) 
+
 # About Me
 
 - I study neuroscience at the University of Tübingen.
