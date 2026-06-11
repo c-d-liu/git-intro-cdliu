@@ -1,11 +1,7 @@
 # My Project Page
 Introduction to git and GitHub using GitHub Desktop (SoSe 2026) 
 
-# About Me
-
-- I study neuroscience at the University of Tübingen.
-- I like hiking and cooking.
-- I want to learn git for my thesis project.
+[About me](about.md)
 
 This is a course work.
 [link to the course](https://dr-eberle-zentrum.github.io/intro-to-git-and-github/instructor/session-0-exercises.html)
