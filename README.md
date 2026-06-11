@@ -13,5 +13,6 @@ My goal of the course:
 3. optimize my workflow
 4. be happy
 Last change: 10:10 AM 29.04.2026
-Quote:\\
+
+Quote:
 To be or not to be
